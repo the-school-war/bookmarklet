@@ -10,6 +10,7 @@ You can open isssues <a href="https://github.com/the-school-war/bookmarklet/issu
 SO the main reason for the update is i updated code on the live server because I was to lazy to make devlopment one and broke the whole thing without realizing,
 but you got windows! 
 * i am wworking on makeing the games window resizable but it is knida har because of the jquery drag
+* i am also working on closing for each window
 * and apps still coming
 
 I hope you enjoy!
